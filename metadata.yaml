@@ -1,0 +1,44 @@
+_repo: Paul-ja-Virginia_28661
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Joutsen, O. A.
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saint-Pierre, Bernardin de
+    aliases:
+    - Saint-Pierre, Jacques Henri Bernardin de
+    - De Saint-Pierre, Bernardin
+    - St. Pierre, Bernardin de (Saint-Pierre)
+    birthdate: 1737
+    deathdate: 1814
+    gutenberg_agent_id: '825'
+    url: http://www.gutenberg.org/2009/agents/825
+    wikipedia: http://en.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre
+description: ''
+gutenberg_issued: '2009-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28661'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Death -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Charity -- Fiction'
+- !lcsh 'Mauritius -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+title: Paul ja Virginia
+url: http://www.gutenberg.org/ebooks/28661
